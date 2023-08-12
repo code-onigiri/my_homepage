@@ -23,3 +23,8 @@ nav a {
   color: #333;
   text-decoration: none;
 }
+
+#main{
+    text-align: center;
+    margin: 2rem;
+}
